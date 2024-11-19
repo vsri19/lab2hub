@@ -1,1 +1,1 @@
-sampleProductFile
+lab2hub
